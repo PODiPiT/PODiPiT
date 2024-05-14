@@ -16,19 +16,18 @@
 </div>
 
 <div id="header" align="center"> 
-  <p> Hi, I'm Alex, a skilled Data Scientist/Analyst from Toronto.</p> 
+  <p> Hi, I'm Alex.</p> 
 </div>
-<!--
-**PODiPiT/PODiPiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :woman_technologist: About Me :
+- I am a Data Scientist/Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto.
+- Right now looking for a job :telescope:
+- Graduated from AI program at Georgian College 📚
+- In my free time I read books or tech papers.
+- How can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alexandr_Nikitin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-nikitin/)
+ 
